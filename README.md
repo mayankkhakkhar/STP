@@ -30,3 +30,6 @@ Other 19 users's password is 'google12345' and usernames are:
 - Only SuperUser is allowed to upload the JSON file.
 
 - Every user can view only his own articles.
+
+
+The 'evn' folder is the virtual envirnoment! (if needed :) )
