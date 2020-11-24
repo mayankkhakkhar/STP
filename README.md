@@ -32,4 +32,4 @@ Other 19 users's password is 'google12345' and usernames are:
 - Every user can view only his own articles.
 
 
-The 'evn' folder is the virtual envirnoment! (if needed :) )
+**The 'evn' folder is the virtual envirnoment! (if needed :) )**
